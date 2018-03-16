@@ -89,6 +89,7 @@ public class BatchDataInsert {
                             "'2018-03-16 15:52:43'," +
                             "'2018-03-16 15:52:43'" +
                             "),");
+
                 }
                 // 构建完整sql
                 String sql = prefix + suffix.substring(0, suffix.length() - 1);
